@@ -3,7 +3,7 @@ import { Button, StyleSheet, Text, View } from "react-native";
 export default function HomeScreen({ navigation }) {
     return(
         <View style={styles.container}>
-            <Text>Receitas</Text>
+            <Text>Tela de Receitas Muito Maravilhosas / Gostosas</Text>
             <Text>{"\n"}</Text>
             <Button
             title='Ir Para a Lista de Receitas'
